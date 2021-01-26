@@ -1,6 +1,5 @@
 import { slide as Menu } from "react-burger-menu"
 import Link from 'next/link'
-import "./styles/burgerMenu.module.css"
 
 export default props => {
   return (

@@ -1,0 +1,64 @@
+
+.bm-burger-button {
+    position: fixed;
+    width: 50px;
+    height: 50px;
+    right: 36px;
+    top: 10px;
+    background: url('https://img.icons8.com/doodle/48/000000/menu.png')
+}
+
+.bm-item-list > a{
+    display: block;
+    text-decoration: none;
+    margin-bottom: 10px;
+    padding: 0.5em 0 0.5em 1.5em;
+    color: white;
+    /*transition: color 0.2s;*/
+}
+
+.bm-item-list > a:hover{
+    color: black;
+    background: white;
+}
+
+.bm-menu {
+    background: #1E3A8A;
+    font-size: 1.15em;
+    padding: 2.5em 0;
+}
+
+.bm-morph-shape {
+    fill: #373a47;
+}
+
+.bm-cross-button {
+    height: 24px;
+    width: 24px;
+}
+  
+  /* Color/shape of close button cross */
+.bm-cross {
+    background: white;
+}
+
+.burger-menu-btn{
+    width: 80px;
+}
+
+.bm-menu-wrap{
+    top: 0px;
+}
+
+/*Media queries start*/
+
+@media only screen and (max-width: 768px){
+    .bm-burger-button{
+        transform: scale(0.7);
+        right: 15px;
+        top: 8px;
+    }
+    .burger-menu-btn{
+        width: 50px;
+    }
+}
