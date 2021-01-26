@@ -5,8 +5,12 @@ export default () => (
 )
 
 const TopBar = () => (
-    <div className="p-4 shadow rounded bg-white">
-        <h1 className="text-purple-500 leading-normal text-lg"><span className="text-sm">Powered by</span> Next.js</h1>
-        <p className="text-gray-500">with Tailwind CSS</p>
-  </div>
+    <div class="flex flex-row shadow bg-white p-4 items-center">
+        <div className="flex-grow md:text-center font-extrabold md:text-3xl text-xl font-mono">
+            <div>GRE WORDS</div>
+        </div>
+        <div className="burger-menu-btn">
+
+        </div>
+    </div>
 )
