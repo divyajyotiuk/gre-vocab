@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply bg-blue-200;
+}
+
+.bm-burger-button {
+    position: fixed;
+    width: 50px;
+    height: 50px;
+    right: 36px;
+    top: 20px;
+    background: url('https://img.icons8.com/doodle/48/000000/menu.png')
+}
+
+.bm-overlay{
+    width: 30% !important;
+}
+
+.bm-item-list > a{
+    display: block;
+    text-decoration: none;
+    margin-bottom: 10px;
+    color: #d1d1d1;
+    transition: color 0.2s;
+}
+
