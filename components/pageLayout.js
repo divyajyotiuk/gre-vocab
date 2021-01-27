@@ -6,7 +6,7 @@ export default function Layout({ children }) {
       <>
       <TopBar/>
        <main>{children}</main>
-        <Footer />
+      <Footer />
       </>
     )
   }
