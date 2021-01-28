@@ -11,7 +11,7 @@ export default ({pageNames}) => (
 )
 
 export const TopBar = () => (
-    <div className="flex flex-row shadow bg-white p-4 items-center fixed top-0 left-0 right-0">
+    <div className="flex flex-row shadow bg-white p-4 items-center fixed top-0 left-0 right-0 z-10">
         <div className="flex-grow md:text-center font-extrabold md:text-3xl text-xl font-mono">
             <div>GRE WORDS</div>
         </div>

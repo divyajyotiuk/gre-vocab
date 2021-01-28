@@ -1,6 +1,6 @@
 import { useRouter } from 'next/router'
 import ErrorPage from 'next/error'
-import Layout from '../../components/pageLayout'
+import PageLayout from '../../components/pageLayout'
 import { getAllCSVIds, getCSVData } from '../../lib/csvReader'
 import Card from '../../components/card'
 import BurgerMenu from '../../components/burgerMenu'
@@ -9,9 +9,9 @@ export default function WordsPage({paths, csvData}) {
     const data = csvData.data;
     return (
         <div className="mt-24">
-        <Layout>
+        <PageLayout>
             {data.length > 0 && data.map((wordData, index)=> <Card key={index} data={wordData}></Card> )}
-        </Layout>
+        </PageLayout>
         <BurgerMenu pages={paths} className="burger-menu" outerContainerId={"App"} ></BurgerMenu>
         </div>
     )
