@@ -30,8 +30,6 @@ export async function getStaticProps({ params }) {
     // Fetch necessary data for the blog post using params.id
     let csvData = await getCSVData(params.id)
     const paths = getAllCSVIds()
-    console.log(csvData[0])
-    console.log("here")
     return {
         props: {
             paths,
