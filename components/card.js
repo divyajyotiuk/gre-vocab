@@ -36,15 +36,16 @@ const Card = (props) => {
                 </div>
             </div>
         </div>
-        {isModalOpen && <DeckModal deck={Deck} onClose={toggleModal} />}
+        {isModalOpen && <DeckModal {...props} onClose={toggleModal} />}
         </>
     );
 };
 
 const DeckModal = (props) => {
 
-    const deck = Number(props.deck);
+    const deck = Number(props?.data?.Deck);
     const deckArray = [1, 2, 3];
+    const word = props?.data?.Word;
     return(
         <>
        <div className={styles.modal__backdrop}>
@@ -60,7 +61,7 @@ const DeckModal = (props) => {
                 {deckArray.map((ele, index)=>{
                     if(ele != deck){
                         return <button className="flex-shrink-0 bg-purple-600 text-white text-base font-semibold py-2 px-4 rounded-lg shadow-md hover:bg-purple-700 focus:outline-none" 
-                        type="button" key={`deck-button-${index}`}>
+                        type="button" onClick={()=>{props.updateDeck(word, ele)}} key={`deck-button-${index}`}>
                         Deck {ele}
                         </button>
                     }
