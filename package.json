@@ -12,7 +12,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "cors": "^2.8.5",
     "csv-parser": "^3.0.0",
+    "csv-writer": "^1.6.0",
+    "express": "^4.17.1",
     "next": "^10.0.5",
     "react": "^17.0.1",
     "react-burger-menu": "^3.0.3",
@@ -23,5 +26,6 @@
     "postcss": "^8.2.4",
     "postcss-preset-env": "^6.7.0",
     "tailwindcss": "^2.0.2"
-  }
+  },
+  "proxy": "http://localhost:8000"
 }
