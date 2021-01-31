@@ -2,7 +2,7 @@ Test,Question,Word,Meaning,Sentence,POS,Deck
 Manhattan Test 1,Manhattan Test 1 S1 Q1,delineate,"describe precisely, indicate the position/boundaries","1. the law should delineate and prohibit behaviour which is socially abhorrent
 2. his finger found a precisely outlined section delineated in red marker",verb,1
 Manhattan Test 1,Manhattan Test 1 S1 Q1,impinge,"encroach, have a negative effect","1. several factors impinge on market efficiency 
-2. the proposed fencing would impinge on a public bridleway",verb,1
+2. the proposed fencing would impinge on a public bridleway",verb,3
 Manhattan Test 1,Manhattan Test 1 S1 Q1,decimate,kill/destroy,1. the inhabitants of the country had been decimated,verb,1
 Manhattan Test 1,Manhattan Test 1 S1 Q1,harmonize,produce pleasing visual combination,"1. the containers harmonize in colour, texture, and shape with the flowers they display",verb,1
 Manhattan Test 1,Manhattan Test 1 S1 Q2,disconsolate,unhappy and unable to comfort,"1. Though he did his best to cheer her, his pep talk left her just as disconsolate as before.",adjective,1
@@ -44,7 +44,7 @@ Manhattan Test 1,Manhattan Test 1 S1 Q13,squalid,extremely dirty and unpleasant,
 Manhattan Test 1,Manhattan Test 1 S1 Q13,sully,make dirty,,verb,1
 Manhattan Test 1,Manhattan Test 1 S1 Q13,bent,inclination,,noun,1
 Manhattan Test 1,Manhattan Test 1 S1 Q14,blasphemous,not relating to that which is sacred or religious,"Synonyms: profane, secular",adjective,1
-Manhattan Test 1,Manhattan Test 1 S1 Q14,uncanny,"strange, mysterious in an unsettling way",an uncanny feeling that she was being watched,adjective,1
+Manhattan Test 1,Manhattan Test 1 S1 Q14,uncanny,"strange, mysterious in an unsettling way",an uncanny feeling that she was being watched,adjective,2
 Manhattan Test 1,Manhattan Test 1 S1 Q15,disposition,"nature, way of behaving",your sunny disposition has a way of rubbing off on those around you,noun,1
 Manhattan Test 1,Manhattan Test 1 S1 Q15,condemn,"to declare wrong, dissaprove",,verb,1
 Manhattan Test 1,Manhattan Test 1 S1 Q15,truculent,eager or quick to argue or fight; aggressively defiant,the truculent attitude of farmers to farmers bill,adjective,1
