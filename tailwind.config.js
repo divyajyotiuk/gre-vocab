@@ -1,15 +1,8 @@
 module.exports = {
-  purge: [],
+  purge: ['./components//*.{js,ts,jsx,tsx}', './pages//*.{js,ts,jsx,tsx}'],
   darkMode: false, // or 'media' or 'class'
   theme: {
-    extend: {
-      transitionDuration:{
-        '8':'800ms'
-      },
-      transitionDelay:{
-        '0':'0ms'
-      }  
-    },
+    extend: {},
   },
   variants: {
     extend: {},
