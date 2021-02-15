@@ -15,7 +15,7 @@ function getCSVData(id){
     const stream = fs.createReadStream(fullPath)
     .pipe(csvReader())
     .on('data', (row) => {
-      data[`${row?.Word}`] = row;
+      data[`${row.Word}`] = row;
     })
   
     return new Promise(resolve => {
