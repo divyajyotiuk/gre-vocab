@@ -23,6 +23,6 @@ app.post('/update-deck', function(req, res){
     })
 })
 
-console.log("Server ::")
+console.log("Server ::", PORT)
 
 server.listen(PORT);
