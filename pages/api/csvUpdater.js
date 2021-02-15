@@ -2,6 +2,7 @@ const csvWriter = require( 'csv-writer')
 const {join} = require('path');
 const fs = require('fs');
 const csvReader = require('csv-parser');
+const { default: error } = require('next/error');
 
 const csvDir = join(process.cwd(), 'csvs')
 
@@ -24,8 +25,10 @@ function getCSVData(id){
         resolve({
             ...data
         });
-        reject("Some error occurred");
       });
+      stream.on('error', () => {
+        reject(new Error("Some error occurred"));
+      })
     })
     
 }
@@ -59,3 +62,8 @@ module.exports = async function writeCsvData(params){
   
     return csvWriter.writeRecords(records)       // returns a promise
 }
+
+process.on("unhandledRejection", (reason, promise) => {
+  console.log("REASON ->",reason);
+  console.log("Promise =>", promise);
+});
