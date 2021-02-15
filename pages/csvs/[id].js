@@ -17,8 +17,9 @@ export default function WordsPage({paths, csvData}) {
     ];
     const [selectedOption, setSelectedOption] = useState( { value: 1, label: 'Deck 1' });
     const updateDeck = (word, deck) => {
-        console.log("here!", word, deck)
-        fetch(constants.url+constants.updateDeck, {
+        console.log("here!", word, deck);
+        const url = constants.url || 'http://localhost:8000/';
+        fetch(url + constants.updateDeck, {
             method: 'POST',
             headers: {
                 "Content-type": "application/json"
