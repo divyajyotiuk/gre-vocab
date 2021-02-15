@@ -54,6 +54,7 @@ export default function WordsPage({paths, csvData}) {
                     options={options}
                     value={selectedOption}
                     onChange={handleChange} 
+                    isSearchable={false}
                 />
             </div>
         </div>
