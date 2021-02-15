@@ -18,12 +18,13 @@ function getCSVData(id){
       data[`${row.Word}`] = row;
     })
   
-    return new Promise(resolve => {
+    return new Promise((resolve, reject) => {
       stream.on('end', () => {
         console.log('CSV file successfully processed');
         resolve({
             ...data
         });
+        reject("Some error occurred");
       });
     })
     
@@ -47,7 +48,12 @@ module.exports = async function writeCsvData(params){
       ]
     });
   
-    const csvData = await getCSVData(id);
+    let csvData = {};
+    try {
+      csvData = await getCSVData(id);
+    } catch (error) {
+      console.log("ERROR ->",error);
+    }
     csvData[params.word]['Deck'] = params.deck;
     const records = Object.keys(csvData).map((word)=> csvData[word]);
   
