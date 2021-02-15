@@ -1,0 +1,78 @@
+Test,Question,Word,Meaning,Sentence,POS,Deck
+Manhattan Prep,Text Completion,caustic,sarcastic in a scathing and bitter way,caustic sense of humour,adjective,1
+Manhattan Prep,Text Completion,acerbic,sharp and cutting,comedian's acerbic wit,adjective,1
+Manhattan Prep,Text Completion,abstruse,"difficult to understand, obscure",an abstruse philosophical inquiry,adjective,1
+Manhattan Prep,Text Completion,sentry,soldier (to keep guard at a place),sentries patrolled the border,noun,1
+Manhattan Prep,Text Completion,sycophant,a person who flatters someone to gain advantage,The prime minister is surrounded by sycophants,noun,1
+Manhattan Prep,Text Completion,obsequious,obedient or attentive to an excessive or servile degree,they were served by obsequious waiters,adjective,1
+Manhattan Prep,Text Completion,servile,having or showing an excessive willingness to serve or please others,he bowed his head in a servile manner,adjective,1
+Manhattan Prep,Text Completion,fecund,"highly fertile, capable of producing an abundance of offspring",fecund ant queen produces enough progeny,adjective,1
+Manhattan Prep,Text Completion,imperious,arrogant and domineering,his imperious demands,adjective,1
+Manhattan Prep,Text Completion,forebear,ancestor,generations of his forebears had lived in London,noun,1
+Manhattan Prep,Text Completion,harbinger,"1. one who initiates a major change <br>
+2. to give a warning or prediction of","1. her father's successful job interview was seen as a harbinger of better times to come <br>
+2. the hope that the housing slump does not harbinger a general economic recession","1. noun <br>
+2. verb",1
+Manhattan Prep,Text Completion,aver,assert,he averred that he was innocent of the allegations,verb,1
+Manhattan Prep,Text Completion,sanguine,"optimistic or positive, especially in an apparently bad or difficult situation","with his pleasingly sanguine personality, he approaches event the bitterest disputes ",adjective,1
+Manhattan Prep,Text Completion,supplant,supercede and replace,supplanted the broader goal of returning to profitability,verb,1
+Manhattan Prep,Text Completion,paltry,small amount,the shrimp can discriminate only a paltry range of colors,adjective,1
+Manhattan Prep,Text Completion,write off,dismiss someone or something as insignificant,Her poor grades might easily be written off as simple laziness,phrasal verb,1
+Manhattan Prep,Text Completion,sedate,"calm, serene",his comparably sedate writings,adjective,1
+Manhattan Prep,Text Completion,solvent,able to pay one's debts,the company was solvent,adjective,1
+Manhattan Prep,Text Completion,spokesperson,person who makes statements on behalf of someone,The mayor’s top aide and spokesperson,noun,1
+Manhattan Prep,Text Completion,pundit,"an expert, who gives opinion in authorative manner", forehead of a Hindu pundit is also partly composed of it,noun,1
+Manhattan Prep,Text Completion,arbiter,a person who settles dispute in authorative manner,the Secretary of State is the final arbiter,noun,1
+Manhattan Prep,Text Completion,idiosyncrasy,a mode of behaviour or way of thought peculiar to an individual,manage the mayor’s idiosyncrasies was her sole qualification,noun,1
+Manhattan Prep,Text Completion,neophyte,newbie,began her tenure as a political neophyte,noun,1
+Manhattan Prep,Text Completion,concede,admit or agree that something is true after first denying or resisting it,Critics of the media concede that blatant misstatement of the truth is rare for the media,verb,1
+Manhattan Prep,Text Completion,blatant,"very obvious, done openly",Critics of the media concede that blatant misstatement of the truth is rare for the media,adjective,1
+Manhattan Prep,Text Completion,clamorous,noisy,over the clamorous objections of preservationists,adjective,1
+Manhattan Prep,Text Completion,preservationist,"person who wants to preserve (historic buildings, artefacts)",over the clamorous objections of preservationists,noun,1
+Manhattan Prep,Text Completion,detract ,diminish in value,these objections in no way detract from her achievement,verb,1
+Manhattan Prep,Text Completion,quibble,objection,these quibbles in no way detract from her achievement,noun,1
+Manhattan Prep,Text Completion,rove,wander,he spent most of the 1990s roving about the Caribbean,verb,1
+Manhattan Prep,Text Completion,sanctimony,the action or practice of acting as if one were morally superior to other people.,Her demeanor should not be misinterpreted as sanctimony,noun,1
+Manhattan Prep,Text Completion,scrupulous,"careful, extremely attentive to details",the research has been carried out with scrupulous attention to detail,adjective,1
+Manhattan Prep,Text Completion,prim,showing disapproval of anything regarded as improper,a very prim and proper lady,adjective,1
+Manhattan Prep,Text Completion,pontificate,express one's opinions in a pompous and dogmatic way,she is not the one to pontificate about the moral frailties of others,verb,1
+Manhattan Prep,Text Completion,foreboding,feeling that something bad will happen,with a sense of foreboding she read the note,noun,1
+Manhattan Prep,Text Completion,frailty,the condition of being weak and delicate,she is not the one to pontificate about the moral frailties of others,noun,1
+Manhattan Prep,Text Completion,behest,a person's orders or command.,they had assembled at his behest,noun,1
+Manhattan Prep,Sentence Equivalence,lest,for fear that (clause expressive of an action/occurrence requiring caution),"Art museums must carefully determine the provenance of works they acquire, lest they inadvertently fuel a market for stolen art",conjunction,1
+Manhattan Prep,Sentence Equivalence,larceny,theft of personal property,,noun,1
+Manhattan Prep,Sentence Equivalence,luridly,in a shocking way,"The book is one in a series of sensational, luridly titled crime stories",adverb,1
+Manhattan Prep,Sentence Equivalence,repertory,"the performance of various plays, operas, or ballets by a company at regular short intervals",a repertory actor,noun,1
+Manhattan Prep,Sentence Equivalence,amble,"walk or move at a slow, relaxed pace.",they ambled along the riverbank,verb,1
+Manhattan Prep,Sentence Equivalence,respose,"a state of rest, sleep, or tranquillity",in repose her face looked relaxed,noun,1
+Manhattan Prep,Sentence Equivalence,saunter,"walk in a slow, relaxed manner",Adam sauntered into the room,verb,1
+Manhattan Prep,Sentence Equivalence,jaunt,a short excursion or journey made for pleasure,her regular jaunts to Europe,noun,1
+Manhattan Prep,Sentence Equivalence,avant-garde,new and experimental ideas,her fragmented geometric designs – considered by some too avant-garde to actually be built,noun,1
+Manhattan Prep,Sentence Equivalence,stark,complete; sheer.,he came running back in stark terror,adjective,1
+Manhattan Prep,Sentence Equivalence,unembellished,not decorated,the unembellished truth,adjective,1
+Manhattan Prep,Sentence Equivalence,outmoded,old fashioned,Although the aerospace company has a reputation for being an outmoded manufacturer,adjective,1
+Manhattan Prep,Sentence Equivalence,adept,skilled and proficient,she is adept at cutting through red tape,adjective,1
+Manhattan Prep,Sentence Equivalence,mercenary,primarily concerned with making money at the expense of ethics,she's nothing but a mercenary little gold-digger,adjective,1
+Manhattan Prep,Sentence Equivalence,lackey,servant,lackeys were waiting to help them from the carriage,noun,1
+Manhattan Prep,Text Completion,slanderous,(of a spoken statement) false and malicious.,slanderous allegations,adjective,1
+Manhattan Prep,Text Completion,doyenne,the most respected or prominent woman in a particular field,the fashion doyenne commented,noun,1
+Manhattan Prep,Text Completion,amuse,cause (someone) to find something funny.,he made faces to amuse her,verb,1
+Manhattan Prep,Text Completion,lackadaisical,lacking enthusiasm and determination; carelessly lazy,calling its own progeny lackadaisical,adjective,1
+Manhattan Prep,Text Completion,slacking,less active,Every generation is accused of slacking by preceding ones,verb,1
+Manhattan Prep,Text Completion,vicissitude,"a change of circumstances or fortune, typically one that is unwelcome or unpleasant",her husband's sharp vicissitudes of fortune,noun,1
+Manhattan Prep,Text Completion,serendipity,the occurrence and development of events by chance in a happy or beneficial way.,a fortunate stroke of serendipity,noun,1
+Manhattan Prep,Text Completion,akimbo,position - with hands on the hips and elbows turned outwards,"she stood with arms akimbo, frowning at the small boy",adverb,1
+Manhattan Prep,Text Completion,abreast of,Stay or cause to stay up-to-date,the professor takes pains to remain abreast of latest developments ,adverb,1
+Manhattan Prep,Text Completion,obtuse,annoyingly insensitive or slow to understand,he wondered if the doctor was being deliberately obtuse,adjective,1
+Manhattan Prep,Text Completion,subservient,he wondered if the doctor was being deliberately obtuse,she was subservient to her parents,adjective,1
+Manhattan Prep,Text Completion,askance,with an attitude or look of suspicion or disapproval,the reformers looked askance at the mystical tradition,adverb,1
+Manhattan Prep,Sentence Equivalence,retrospective,a show of the work an artist has done in their life so far,The exhibit is not so much a retrospective,noun,1
+Manhattan Prep,Sentence Equivalence,dissolution,act or process of ending a work/agreement,any evidence of his ultimate dissolution is absent,noun,1
+Manhattan Prep,Sentence Equivalence,paean,a creative work expressing enthusiastic praise,he's created a filmic paean to his hero,noun,1
+Manhattan Prep,Sentence Equivalence,polemic,a strong verbal or written attack on someone or something,his polemic against the cultural relativism of the Sixties,noun,1
+Manhattan Prep,Sentence Equivalence,panacea,a cure to all problems,technology is not a panacea for all our problems.,noun,1
+Manhattan Prep,Sentence Equivalence,hale,(of an old person) strong and healthy,"he's only just sixty, very hale and hearty",adjective,1
+Manhattan Prep,Sentence Equivalence,flagging,becoming tired or less dynamic,the players were visibly flagging,adjective,1
+Manhattan Prep,Sentence Equivalence,lissome,"(of a person or their body) thin, supple, and graceful.",that outfit that should be left to lissom teenagers,adjective,1
+Manhattan Prep,Sentence Equivalence,loathsome,hatred,,adjective,1
+Manhattan Prep,Reading Comprehension,lackluster,"dull, mediocre",The actor gave a lackluster performance,adjective,1

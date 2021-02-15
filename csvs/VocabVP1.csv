@@ -1,0 +1,75 @@
+Test,Question,Word,Meaning,Sentence,POS,Deck
+Manhattan Practice I,Text Completion,apportion,divide and allocate,voting power will be apportioned according to contribution,verb,1
+Manhattan Practice I,Text Completion,heretofore,before now,diseases that heretofore were usually confined to rural areas,adverb,1
+Manhattan Practice I,Text Completion,dementia,"brain disease marked by memory disorders, personality changes, and impaired reasoning",,noun,1
+Manhattan Practice I,Text Completion,hysteria,excess emotion,,,1
+Manhattan Practice I,Text Completion,catastrophe,an event causing great and usually sudden damage or suffering,an environmental catastrophe,noun,1
+Manhattan Practice I,Text Completion,stigmatize,condemn,the institution was stigmatized as a last resort for the destitute(poor),verb,1
+Manhattan Practice I,Text Completion,deify,regard as god,she was deified by the early Romans as a fertility goddess,verb,1
+Manhattan Practice I,Text Completion,antedate,come before (something) in date,a civilization that antedated the Roman Empire,verb,1
+Manhattan Practice I,Text Completion,abridged, having been shortened,an abridged text of the speech,adjective,1
+Manhattan Practice I,Text Completion,expatriate,"a person who lives outside their native country, send abroad, foreign",American expatriates in London,"noun, verb, adjective",1
+Manhattan Practice I,Text Completion,lascivious,feeling or revealing an overt(show openly) sexual interest or desire.,he gave her a lascivious wink,adjective,1
+Manhattan Practice I,Text Completion,sophisticated,"1. having, revealing, or involving a great deal of worldly experience and knowledge of fashion and culture
+2. (of machines) complex","a chic, sophisticated woman",adjective,1
+Manhattan Practice I,Text Completion,excise,"tax, remove a section of (text/music)",the clauses were excised from the treaty,"noun, verb",1
+Manhattan Practice I,Text Completion,quaint,attractively unusual or old-fashioned,his yearning for quaint charms of his rural home,adjective,1
+Manhattan Practice I,Sentence Equivalence,steward,"look after, manage",the main challenge was to steward the resources,verb,1
+Manhattan Practice I,Sentence Equivalence,husband,use resources economically,the main challenge was to husband the resources,verb,1
+Manhattan Practice I,Sentence Equivalence,peddle,sell/promote,he peddled printing materials around the country,verb,1
+Manhattan Practice I,Sentence Equivalence,upend,turn (something) on its end,she upended a can of soup over the portions,verb,1
+Manhattan Practice I,Sentence Equivalence,galleys,"ship/aircraft, drafts about to be published",he could barely see the text to proof his own galleys,noun,1
+Manhattan Practice I,Sentence Equivalence,capricious,"given to sudden and unaccountable changes of mood or behaviour, fickle",it's terrible to feel our livelihood hinges on a capricious boss,adjective,1
+Manhattan Practice I,Sentence Equivalence,fickle,"changing frequently, especially as regards one's loyalties or affections",celebs trying to appeal to an increasingly fickle public,adjective,1
+Manhattan Practice I,Sentence Equivalence,volatile,"liable to change rapidly and unpredictably, especially for the worse",staff has seen her in a volatile state,adjective,1
+Manhattan Practice I,Sentence Equivalence,fallacious,based on a mistaken belief,fallacious arguments,adjective,1
+Manhattan Practice I,Sentence Equivalence,counterfactual,relating to or expressing what has not happened or is not the case.,,adjective,1
+Manhattan Practice I,Sentence Equivalence,vacillating,"wavering between different opinions or actions, going back and forth, uncertain",he was accused of vacillating leadership,adjective,1
+Manhattan Practice I,Sentence Equivalence,irresolute,uncertain,she stood irresolute outside his door,adjective,1
+Manhattan Practice I,Reading Comprehension,dire,extremely serious or urgent,unemployment numbers are more dire than before,adjective,1
+Manhattan Practice I,Reading Comprehension,unpropitious,"unfavourable, no good chance of successs",recession may seem an unpropitious time for such risky endeavor,adjective,1
+Manhattan Practice I,Reading Comprehension,dearth,"shortage, scarcity",an ineviitable dearth of angel investors,noun,1
+Manhattan Practice I,Reading Comprehension,uptick,small increase,an uptick in reports of bacterial strains,noun,1
+Manhattan Practice I,Reading Comprehension,virulence,the severity or harmfulness of a disease or poison,the proportion of birds which die depends on the virulence of the virus,noun,1
+Manhattan Practice I,Reading Comprehension,bestow,present,the office was bestowed on him by the monarch of this realm,verb,1
+Manhattan Practice I,Reading Comprehension,bevy,a large group of people or things of a particular kind.,a bevy of big-name cameos will keep the adults entertained,noun,1
+Manhattan Practice I,Reading Comprehension,impregnable,unable to be defeated or overcome,rendering the bacterium impregnable,adjective,1
+Manhattan Practice I,Reading Comprehension,marshal,assemble and arrange,virions must marshal the host cell's parts,verb,1
+Manhattan Practice I,Reading Comprehension,ex post facto,after it is done,viral infections cannot be treated ex post facto,latin,1
+Manhattan Practice I,Reading Comprehension,insidious,"proceeding in a gradual, subtle way, but with very harmful effects",while the insidious spread of drug-resistant bacteria...,adjective,1
+Manhattan Practice I,Reading Comprehension,remission,a temporary diminution of the severity of disease or pain,"for viruses, remission rather than cure is the goal",noun,1
+Manhattan Practice I,Reading Comprehension,cataclysm,a large-scale and violent event in the natural world,bacteria lack the potential for cataclysm,noun,1
+Manhattan Practice I,Reading Comprehension,happenstance,coincidence,it is only fortunate happenstance that HIV does not spread by air,noun,1
+Manhattan Practice I,Text Completion,posit,put forward as fact or basis of argument,an argument posited that the possibility of conducting transactions,verb,1
+Manhattan Practice I,Text Completion,prescient,ability to foretell the future,a prescient warning,adjective,1
+Manhattan Practice I,Text Completion,preternatural,beyond what is normal or natural (in mysterious ways),autumn had arrived with preternatural speed,adjective,1
+Manhattan Practice I,Text Completion,preordain,decide or determine (an outcome or course of action) beforehand,you might think the company's success was preordained,verb,1
+Manhattan Practice I,Text Completion,preposterous,contrary to reason or common sense; utterly absurd or ridiculous,a preposterous suggestion,adjective,1
+Manhattan Practice I,Text Completion,pithy,concise,his characteristically pithy comments,adjective,1
+Manhattan Practice I,Text Completion,terse,sparing in the use of words; abrupt.,a terse statement,adjective,1
+Manhattan Practice I,Text Completion,primal,early stage in evelutionary development,stems from an arguably primal human need to venerate both men and gods,adjective,1
+Manhattan Practice I,Text Completion,lionize,to treat as an object of great interest or importance,the widespread tendency to lionize retired leaders,verb,1
+Manhattan Practice I,Text Completion,indemnify,"1. compensate (someone) for harm or loss. (get out of jail free card) <br>
+2. insure/guarantee/secure","1. each of the parties shall indemnify me for all reasonable costs of defending such actions and proceedings <br>
+2. the company has taken out insurance to indemnify its directors against liability",verb,1
+Manhattan Practice I,Sentence Equivalence,anecdotal,"not necessarily true or reliable, because based on personal accounts rather than facts or research",while there was much anecdotal evidence there was little hard fact,adjective,1
+Manhattan Practice I,Sentence Equivalence,actuarial,relating to actuaries(statisticians) or their work of compiling and analysing statistics to calculate insurance risks and premiums.,an actuarial consulting firm,adjective,1
+Manhattan Practice I,Sentence Equivalence,quotidian,"daily, unextraordinary",the car sped noisily off through the quotidian traffic,adjective,1
+Manhattan Practice I,Sentence Equivalence,fledgling,inexperienced,troupe of fledgling dancers could observe the real masters,adjective,1
+Manhattan Practice I,Sentence Equivalence,torpid,sluggish/lethargic,we sat around in a torpid state,adjective,1
+Manhattan Practice I,Sentence Equivalence,lithe,supple and graceful,"she lay gazing up at his tall, lithe figure",adjective,1
+Manhattan Practice I,Sentence Equivalence,supple,flexible,her supple fingers,adjective,1
+Manhattan Practice I,Reading Comprehension,underpin,"support, justify, or form the basis for",worldview underpinned by central and all-important Earth,verb,1
+Manhattan Practice I,Reading Comprehension,worldview,a particular philosophy of life or conception of the world.,worldview underpinned by central and all-important Earth,noun,1
+Manhattan Practice I,Reading Comprehension,juxtapose,place or deal with close together for contrasting effect,juxtapose two opposing views,verb,1
+Manhattan Practice I,Reading Comprehension,indictment,"1. formal charge or accusation of a serious crime <br>
+2. a thing that serves to illustrate that a system or situation is bad",an indictment of the Antiguan government,noun,1
+Manhattan Practice I,Reading Comprehension,escapade,"an act or incident involving excitement, daring, or adventure",fluctuates from moral crisis to hilarious escapde,noun,1
+Manhattan Practice I,Reading Comprehension,acclaim,praise enthusiastically and publicly,performed to much acclaim throughout Europe,noun,1
+Manhattan Practice I,Reading Comprehension,corroborate,to prove true or support with evidence,corroborate the view that Earth is not central,verb,1
+Manhattan Practice I,Reading Comprehension,rejoinder,"a reply, especially a sharp or witty one",Kincaid makes a witty rejoinder,noun,1
+Vocabulary Builder,Intermediate Level 1,unremitting,"never relaxing/slackening, incessant",unremitting overcast skies,adjective,1
+Vocabulary Builder,Intermediate Level 1,incessant,continuously flowing,the incessant beat of the music,adjective,1
+Vocabulary Builder,Intermediate Level 1,lugubrious,looking or sounding sad and dismal,lugubrious music,adjective,1
+Vocabulary Builder,Intermediate Level 1,appropriate,take forcefully,Govt appropriated land,verb,1
+Vocabulary Builder,Intermediate Level 3,grotesque,comically or repulsively ugly or distorted.,a figure wearing a grotesque mask,adjective,1
