@@ -48,7 +48,7 @@ module.exports = async function writeCsvData(params){
     });
   
     const csvData = await getCSVData(id);
-    csvData[params?.word]['Deck'] = params.deck;
+    csvData[params.word]['Deck'] = params.deck;
     const records = Object.keys(csvData).map((word)=> csvData[word]);
   
     return csvWriter.writeRecords(records)       // returns a promise
