@@ -7,7 +7,7 @@ module.exports = async (req, res) => {
         const res = await writeCsvData({id, word, deck});
         httpResponse.status(200).send({success: true});
     } catch (error) {
-        httpResponse.status(500).send({success: false, error: err});
+        httpResponse.status(500).send({success: false, error: error});
     }
 }
 
