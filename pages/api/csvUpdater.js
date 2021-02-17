@@ -52,6 +52,7 @@ module.exports = async function writeCsvData(params){
   
     let csvData = {};
     try {
+      console.log("id :: ", id);
       csvData = await getCSVData(id);
     } catch (error) {
       console.log("ERROR ->",error);
@@ -61,8 +62,3 @@ module.exports = async function writeCsvData(params){
   
     return csvWriter.writeRecords(records)       // returns a promise
 }
-
-process.on("unhandledRejection", (reason, promise) => {
-  console.log("REASON ->",reason);
-  console.log("Promise =>", promise);
-});
