@@ -2,6 +2,7 @@ const csvWriter = require( 'csv-writer')
 const {join} = require('path');
 const fs = require('fs');
 const csvReader = require('csv-parser');
+const { default: error } = require('next/error');
 
 const csvDir = join(process.cwd(), 'csvs')
 
