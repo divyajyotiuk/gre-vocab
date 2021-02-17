@@ -2,15 +2,15 @@ const writeCsvData = require('./csvUpdater');
 
 module.exports = async (req, res) => {
     const { body } = req;
-    const {id, word, deck} = req.body;
+    const { id, word, deck } = body;
     try {
-        console.log("try block :: ", body);
+        console.log("try block :: ", body, id);
         const response = await writeCsvData({id, word, deck});
         console.log("success :: ", response);
-        res.status(200).send({success: true});
+        res.status(200).json({success: true});
     } catch (error) {
         console.log("catch block :: ", error);
-        res.status(500).send({success: false, error: error});
+        res.status(500).json({success: false, error: error});
     }
 }
 
